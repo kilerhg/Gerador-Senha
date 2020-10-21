@@ -26,3 +26,7 @@ dentro do console digitar ```janela.py```</br>
 * [X] Polir Interface
 * [X] Compilar para EXE
 * [ ] Abas para salvar / Abrir
+
+## Screenshot
+
+![Interface](./interface.PNG)
