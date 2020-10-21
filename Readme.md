@@ -24,5 +24,5 @@ dentro do console digitar ```janela.py```</br>
 * [X] Criar Funções Básicas
 * [X] Linkar funções & interface
 * [X] Polir Interface
-* [ ] Compilar para EXE
+* [X] Compilar para EXE
 * [ ] Abas para salvar / Abrir
